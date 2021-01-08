@@ -1,4 +1,4 @@
-# EECS2030
+# EECS2030 Project Advanced OOP JAVA
 Student Transcript, Advanced Object-Oriented Programming.
 A java program based on object-oriented principles that generates a student transcript and calculates their GPA.
 The program uses a scanner class to read a .txt file containing a sequence of information about the students, the courses they have taken and their scores in each course.
